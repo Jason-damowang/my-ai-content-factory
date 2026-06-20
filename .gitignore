@@ -2,3 +2,10 @@
 .DS_Store
 node_modules/
 .env
+*.env
+.env.*
+config.local.*
+cookies.*
+*.cookie
+*.sqlite
+*.db
